@@ -8,7 +8,9 @@ On Linux, open a Terminal, go to the directory of a cloned repository and run 'g
 After a successful compilation, you can run the program as described below.
 
 This program can be used in 2 ways:
+
 	1) ./my_tail < input.txt
+	
 	2) ./my_tail -n 5 < input.txt
 	
 When used like in example 1), this program prints the last 3 lines of text from the specified text file. 
